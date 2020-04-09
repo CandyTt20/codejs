@@ -7,3 +7,5 @@ var xiaoming = {
     score: null
 };
 console.log(xiaoming.name);
+
+console.log(xiaoming.weight);
