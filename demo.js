@@ -12,3 +12,5 @@ console.log(xiaoming.weight);
 
 console.log(xiaoming.score);
 
+
+console.log(xiaoming.birth);
