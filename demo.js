@@ -8,6 +8,7 @@ var xiaoming = {
 };
 console.log(xiaoming.name);
 
+
 console.log(xiaoming.weight);
 
 console.log(xiaoming.score);
