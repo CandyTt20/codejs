@@ -6,12 +6,15 @@ var xiaoming = {
     weight: 65,
     score: null
 };
-console.log(xiaoming.name);
 
+var computer = {
+    name : 'sd',
+    age : 12,
+};
 
-console.log(xiaoming.weight);
+var s = 'sb';
+var s1 = 'is';
 
-console.log(xiaoming.score);
-
-
-console.log(xiaoming.birth);
+var a = [1,'sad',null]
+a.length = 6
+console.log(a[3]);
