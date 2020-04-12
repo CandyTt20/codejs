@@ -17,4 +17,4 @@ var s1 = 'is';
 
 var a = [1,'sad',null]
 a.length = 6
-console.log(a[3]);
+console.log(xiaoming.name);
